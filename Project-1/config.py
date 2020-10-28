@@ -1,1 +1,1 @@
-gkey = "Aquí"
+gkey = ""
