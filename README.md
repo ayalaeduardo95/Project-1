@@ -8,4 +8,7 @@ Right now it is written to get only the first five (head) but if that is erased,
 
 Made by:
 Carlos Casio Pérez
-
+Eduardo Ayala Saldaña
+Paulina Islas Huajuca
+Rodrigo Guarneros Gutiérrez
+Samuel Cerón Martínez
